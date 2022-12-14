@@ -1,0 +1,30 @@
+h1 {
+  color: #ff9966;
+}
+div {
+  border: 2px solid #ffa089;
+  width: 200px;
+  height: 200px;
+  /* overflow: hidden; */
+  position: relative;
+  display: inline-block;
+  color: #ff91a4;
+}
+body {
+  background-color: #fdd5b1;
+  font-family: gabriola;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+
+span {
+  outline: 2px solid #ffdab9f;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 5px;
+  background-color: white;
+  margin-right: 0px;
+}
